@@ -1,0 +1,20 @@
+git init
+git config user.name "jarboledal7"
+git config user.email "jairo.arboledal6@gmail.com"
+
+https://github.com/jarboleda7/CocinaColombiana.git
+
+git clone https://github.com/jarboleda7/CocinaColombiana.git
+git add .
+git commit -m “Este es el commit del primer sprint” 
+git branch -M main
+recuerde realizar add . antes del siguiente paso
+git remote add origin https://github.com/jarboleda7/CocinaColombiana.git
+git push -u origin main
+git push --force origin main
+HASTA AQUI TENEMOS EL REPOSITORIO CREADO
+
+git clone https://github.com/jarboleda7/CocinaColombiana.git   NO OBLIGATORIO
+
+
+
